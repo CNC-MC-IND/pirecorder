@@ -1,3 +1,6 @@
+# designed by JUMPSNACK
+# all rights reserved JUMPSNACK
+
 import picamera
 import requests
 import json
